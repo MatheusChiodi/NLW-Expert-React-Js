@@ -1,20 +1,20 @@
 ![Cover](https://github.com/MatheusChiodi/NLW-Expert-React-Js/blob/main/public/Logo.svg)
 
-## Informações
+## About
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+This application was developed during Rocketseat's **NLW Experts**, using React, TypeScript, Tailwind, and the SpeechRecognition API.
 
-## Executando
+## Running the Application
 
-Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
+After cloning the repository, navigate to the project folder and run the following commands:
 
 ```sh
 npm install
 npm run dev
 ```
 
-Acesse http://localhost:5173 para visualizar a aplicação.
+Access the application at http://localhost:5173.
 
 ##
 
-Feito com 💜 por Matheus Chiodi
+Made with 💜 by Matheus Chiodi
